@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * 学生信息表
  *
- * @author 蔡瑞峰
+ * @author luyaokao
  * 2020-3-4-19：28
  */
 public class Work1 {
