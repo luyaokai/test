@@ -3,7 +3,7 @@ package test;
 /**
  * 订单实体
  * 2020-0304 14：20
- * @author cairuifeng
+ * @author cairuifen
  */
 public class GoodsC {
     /**
